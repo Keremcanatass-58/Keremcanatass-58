@@ -1,5 +1,10 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+  deployments: write
 name: Generate Snake
 
 # Controls when the action will run. This action runs every 6 hours.
@@ -38,10 +43,10 @@ jobs:
       - run: git status
 
       # Push the changes
-      - name: Push changes
+      - name: Push to repository
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
 
@@ -51,4 +56,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
