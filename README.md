@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-](https://iakademi.com/wp-content/uploads/2022/05/full-stack-developer.png
+](![full-stack-developer](https://github.com/user-attachments/assets/8c7df97b-f429-4394-9d8f-7fcbec0d1a61)
+
 <h1 align="center">Hi 👋, I'm Keremcan</h1>
 <h3 align="center">I have made significant progress in languages such as html, css, python, php, java, c#, react, angular, typescript, mssql, canias and I want to contribute to the software world with creative and intelligent projects that I will continue to share more and more.</h3>
 
