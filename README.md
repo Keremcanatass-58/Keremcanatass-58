@@ -44,13 +44,47 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Keremcanatass-58?label=Followers&style=for-the-badge&color=238636&logo=github" />
-  <img src="https://img.shields.io/github/stars/Keremcanatass-58?label=Total%20Stars&style=for-the-badge&color=F70000&logo=github" />
-  <img src="https://img.shields.io/github/forks/Keremcanatass-58?label=Forks&style=for-the-badge&color=blue&logo=github" />
-  <br/>
-  <img src="https://img.shields.io/github/last-commit/Keremcanatass-58/University-Project-portfolio?label=Last%20Project%20Update&style=for-the-badge&color=orange&logo=github" />
+  
+  <img src="https://img.shields.io/github/stars/Keremcanatass-58/Keremcanatass-58?label=Repo%20Stars&style=for-the-badge&color=F70000&logo=github" />
+  
+  <img src="https://img.shields.io/github/forks/Keremcanatass-58/Keremcanatass-58?label=Forks&style=for-the-badge&color=blue&logo=github" />
 </div>
 
 <br/>
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+<b>⭐ Driving School Automation (Sürücü Kursu)</b><br>
+<img src="https://via.placeholder.com/600x300/1e1e1e/FFFFFF?text=PROJE+RESMINI+BURAYA+YUKLE" alt="Proje 1" style="border-radius: 10px; border: 2px solid #3300FF;" />
+<br>
+<i>ASP.NET Core MVC ile geliştirilmiş kapsamlı otomasyon sistemi.</i>
+<br>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+<br>
+<a href="#">[View Code]</a>
+
+<br><br>
+
+<b>🎨 Beat Marketplace (E-Ticaret)</b><br>
+<img src="https://via.placeholder.com/600x300/1e1e1e/FFFFFF?text=PROJE+RESMINI+BURAYA+YUKLE" alt="Proje 2" style="border-radius: 10px; border: 2px solid #FF00FF;" />
+<br>
+<i>Modern arayüzlü beat satış platformu.</i>
+<br>
+<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<br>
+<a href="#">[View Code]</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
 <h2 align="center">🚀 Tech Arsenal</h2>
 
@@ -59,10 +93,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
