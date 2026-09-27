@@ -5,13 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=keremcanatas&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=Keremcanatass-58&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="views"/>
 </div>
 
 <br/>
 
 <div align="center">
   <i>İnternet ve Ağ Teknolojileri Öğrencisi | Backend Tutkunu | Problem Çözücü</i>
+  <br/>
+  <b>💼 İşe alımlara ve gelişmeye açığım — staj & junior pozisyonlar</b>
 </div>
 
 <br/>
@@ -20,12 +22,12 @@
 
 <div align="center">
 
-| **🎨 KARTIST EDITÖR** | **📂 SMART ORGANIZER** |
-|:---:|:---:|
-| **"Tasarım Artık Herkes İçin"** | **"Dijital Dağınıklığa Son Verin"** |
-| ASP.NET Core ile geliştirilmiş, **Yapay Zeka** destekli tasarım motoru. Kartvizit ve davetiyeleri saniyeler içinde üretir. | Dosyaları otomatik ayıran, düzenleyen ve ultra hızlı **yedekleyen** akıllı yönetim asistanı. |
-| ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-FF9900?style=for-the-badge&logo=openai&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Auto](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge&logo=powerautomate&logoColor=white) |
-| [📂 İncele](https://github.com/Keremcanatass-58/Kartist-Editor) | [📂 İncele](https://github.com/Keremcanatass-58/SMART-ORGANIZER) |
+| **🎨 KARTIST EDITÖR** | **📅 LEVORN API** | **📂 SMART ORGANIZER** |
+|:---:|:---:|:---:|
+| **"Tasarım Artık Herkes İçin"** | **"Randevu Yönetimi REST API"** | **"Dijital Dağınıklığa Son Verin"** |
+| ASP.NET Core ile geliştirilmiş, **Yapay Zeka** destekli tasarım motoru. Kartvizit ve davetiyeleri saniyeler içinde üretir. SignalR ile canlı sosyal akış. | Müşteri, hizmet ve randevu yönetimi; DTO katmanı, doğrulama ve **çakışma kontrolü** ile ASP.NET Core Web API + EF Core. | Dosyaları otomatik ayıran, düzenleyen ve ultra hızlı **yedekleyen** akıllı yönetim asistanı. |
+| ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![AI](https://img.shields.io/badge/AI-Powered-FF9900?style=for-the-badge&logo=openai&logoColor=white) | ![.NET](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![EF](https://img.shields.io/badge/EF%20Core-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Auto](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge&logo=powerautomate&logoColor=white) |
+| [🌐 Canlı Demo](https://kartistt.com.tr) · [📂 İncele](https://github.com/Keremcanatass-58/Kartist-Editor) | [📂 İncele](https://github.com/Keremcanatass-58/levorn-api) | [📂 İncele](https://github.com/Keremcanatass-58/SMART-ORGANIZER) |
 
 </div>
 
