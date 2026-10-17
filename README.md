@@ -1,75 +1,81 @@
 <div align="center">
-  <img src="profile-banner-playful.svg" alt="Keremcan Ataş — backend developer, C# and ASP.NET Core" width="100%">
+  <img src="keremcan-terminal.svg" alt="Animated terminal: Keremcan is ready to code, with a floating 3D cube" width="100%">
 
   <br>
-  <br>
 
-  🗓️ <a href="https://github.com/Keremcanatass-58/ritma">Meet Ritma</a>
-  &nbsp; · &nbsp;
-  🎨 <a href="https://kartistt.com.tr">Try Kartist live</a>
-  &nbsp; · &nbsp;
-  💬 <a href="https://www.linkedin.com/in/keremcan-atas">Say hello</a>
+  <a href="https://github.com/Keremcanatass-58/ritma"><img src="https://img.shields.io/badge/🗓️_Ritma-meet_the_project-7561E8?style=for-the-badge" alt="Meet Ritma"></a>
+  <a href="https://kartistt.com.tr"><img src="https://img.shields.io/badge/🎨_Kartist-open_the_studio-41B883?style=for-the-badge" alt="Try Kartist"></a>
+  <a href="https://www.linkedin.com/in/keremcan-atas"><img src="https://img.shields.io/badge/💬_Say_hello-LinkedIn-2675B8?style=for-the-badge" alt="Say hello on LinkedIn"></a>
 </div>
 
----
+<br>
 
 ## Hey, I'm Keremcan! 👋
 
-I’m an Internet & Network Technologies student in **Kocaeli, Türkiye**, building practical things with **C# and .NET**. I like clean APIs, thoughtful little details, and software that makes someone’s day a bit easier. I also like coffee. A lot. ☕
+I’m an **Internet & Network Technologies student in Kocaeli, Türkiye** who likes turning “what if we built this?” into an actual app. Most days that means C#, .NET, a little too much coffee, and one more tiny detail before I call it done. ☕
 
-🔭 **Current side quest:** building Ritma  
-🧭 **Looking for:** an internship or junior backend role  
-🧪 **Learning:** testing, clean architecture, and cloud deployment
+```text
+🎒 Currently:  learning by building
+🧭 Looking for: an internship or junior backend role
+🧪 Exploring:   testing, clean architecture & cloud deployment
+🐛 Status:     the bug is probably one line above
+```
 
-## 🎮 Things I've made
+## 🕹️ Projects from my little corner of the internet
 
-### 🗓️ [Ritma](https://github.com/Keremcanatass-58/ritma) — less calendar chaos
+### 🗓️ [Ritma](https://github.com/Keremcanatass-58/ritma) — fewer calendar headaches
 
-A booking and business workspace: customers book online; businesses keep schedules, services, staff, and payment status in one place.
+A booking and business workspace where customers can book online and businesses can manage appointments, services, staff, and payments.
 
 `C#` · `ASP.NET Core` · `.NET 10` · `SQL Server`
 
 <a href="https://github.com/Keremcanatass-58/ritma">
-  <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma's appointment dashboard, showing the responsive business workspace" width="100%">
+  <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma appointment dashboard" width="100%">
 </a>
 
-<sub>That’s the real dashboard, with demo-safe data. <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">See desktop and mobile views →</a></sub>
+<sub><a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">Peek at more screens →</a></sub>
 
 ### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) — ideas, meet canvas
 
-An AI-powered design studio for business cards and invitations, with a canvas editor and a live community feed. [Go try it ↗](https://kartistt.com.tr)
+An AI-powered design studio for business cards and invitations, with a canvas editor and a live community feed. [Take it for a spin ↗](https://kartistt.com.tr)
 
 `ASP.NET Core 8` · `SignalR` · `Fabric.js` · `SQL Server`
 
 <a href="https://kartistt.com.tr">
-  <img src="https://raw.githubusercontent.com/Keremcanatass-58/Keremcanatass-58/main/kartist-homepage.png" alt="Kartist home page showing the navigation, design studio introduction, and template collection" width="100%">
+  <img src="https://raw.githubusercontent.com/Keremcanatass-58/Keremcanatass-58/main/kartist-homepage.png" alt="Kartist homepage and its template collection" width="100%">
 </a>
-
-<sub>Explore <a href="https://kartistt.com.tr">Kartist ↗</a></sub>
 
 ### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER) — find that file
 
-A Windows desktop file organizer I built as my Visual Programming final project. It sorts, searches, and opens files from one place.
+A Windows desktop file organizer I made for my Visual Programming final project. It sorts, searches, and opens files from one place.
 
 `C#` · `WinForms` · `.NET Framework`
 
-> 🛠️ **On the workbench:** Menzilim, a personal development platform. Still in the “make it real” phase.
+> 🛠️ **On the workbench:** Menzilim, a personal development platform. It’s in the “make it real” phase.
 
-## 🧰 My everyday toolkit
+## 🧰 My toolbox
 
-**Building:** C# · ASP.NET Core · Entity Framework Core · Dapper · SignalR  
-**Keeping data:** SQL Server · T-SQL  
-**Exploring:** JavaScript · HTML/CSS · Flutter · GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C sharp">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-## ☕ Outside the terminal
+**Also exploring:** Entity Framework Core · Dapper · SignalR · HTML/CSS · Flutter · GitHub Actions
+
+## ☕ A few non-code facts
 
 - 🎓 Studying Internet & Network Technologies in Kocaeli.
-- 🐛 I enjoy debugging; the bugs just don’t enjoy being found.
+- 🐛 I enjoy debugging. The bugs are still deciding how they feel about me.
+- 🎧 Good music makes a stubborn bug at least 12% less stubborn. *(Unofficial research.)*
 - 🤝 Open to internship and junior backend opportunities, remote or hybrid.
 
 <div align="center">
   <br>
-  <b>Have a good problem? I like those.</b><br>
+  <b>Got a fun problem to solve? My terminal is open.</b><br><br>
   <a href="https://www.linkedin.com/in/keremcan-atas">LinkedIn</a> ·
   <a href="mailto:keremcanatass13@gmail.com">Email</a> ·
   <a href="https://github.com/Keremcanatass-58">GitHub</a>
