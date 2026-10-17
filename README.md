@@ -3,44 +3,42 @@
 
   <br>
 
-  [![Selected work](https://img.shields.io/badge/Selected_work-Explore_my_projects-1D3C34?style=for-the-badge&logo=github&logoColor=white)](#selected-work)
+  [![Start here](https://img.shields.io/badge/Start_here-Meet_Ritma-1D3C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremcanatass-58/ritma)
   [![Kartist live demo](https://img.shields.io/badge/Live_product-Try_Kartist-C78D46?style=for-the-badge&logo=figma&logoColor=white)](https://kartistt.com.tr)
   [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
 </div>
 
 ## 👋 Hi, I'm Keremcan
 
-I’m a backend developer and Internet & Network Technologies student in **Kocaeli, Türkiye**. I build practical products with **C#, ASP.NET Core, and SQL Server**—and care about making the experience feel as considered as the code behind it.
+I’m a backend developer and Internet & Network Technologies student in **Kocaeli, Türkiye**. I turn everyday workflow problems into useful products with **C#, ASP.NET Core, and SQL Server**—and care about how the software feels, not only how it compiles.
 
-**Currently:** building Ritma · learning clean architecture, testing, and cloud deployment · open to internship and junior backend roles.
+**Right now:** building Ritma · sharpening testing and cloud deployment · open to internship and junior backend roles.
 
 ## ✨ Selected work
 
 ### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
 
-Appointment and business management for service-based businesses. A public booking flow connects to a workspace for schedules, customers, services, staff, and payment tracking.
+I’m building an appointment workspace where customers can book online and businesses can manage schedules, customers, services, staff, and payment status.
 
 `ASP.NET Core` · `.NET 10` · `EF Core` · `SQL Server`
 
-<details>
-  <summary>Peek at the product</summary>
-  <br>
-  <a href="https://github.com/Keremcanatass-58/ritma">
-    <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma appointment and business management dashboard" width="900">
-  </a>
-  <br>
-  <sub>Responsive dashboard · <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">More screenshots</a></sub>
-</details>
+**Engineering detail:** overlapping bookings are rejected, and management data is scoped to each business.
+
+<a href="https://github.com/Keremcanatass-58/ritma">
+  <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma dashboard showing appointment and business management on desktop" width="100%">
+</a>
+
+<sub>Real product screen · <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">Desktop and mobile screenshots</a></sub>
 
 ### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Try the live product ↗](https://kartistt.com.tr)
 
-An AI-powered design studio with a social feed. Create a design, refine it on a canvas, and share it with others.
+An AI-powered design studio for creating business cards and invitations, with a canvas editor and a live community feed.
 
 `ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server`
 
 ### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER)
 
-A small Windows desktop companion that organizes everyday files and makes them easier to find.
+A Windows file organizer built as my final project for a Visual Programming course—categorize, search, and manage everyday files from one desktop app.
 
 `C#` · `WinForms` · `.NET`
 
