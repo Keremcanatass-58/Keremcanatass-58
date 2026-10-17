@@ -5,7 +5,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
   [![Ritma](https://img.shields.io/badge/Explore-Ritma-1D3C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremcanatass-58/ritma)
-  [![Kartist](https://img.shields.io/badge/Try-Kartist-C78D46?style=for-the-badge&logo=sparkles&logoColor=white)](https://kartistt.com.tr)
+  [![Kartist](https://img.shields.io/badge/Try-Kartist-C78D46?style=for-the-badge&logo=figma&logoColor=white)](https://kartistt.com.tr)
 </div>
 
 ## 👋 Hey, I'm Keremcan
@@ -16,11 +16,23 @@ I work mostly with **C#, ASP.NET Core, and SQL Server**, and I like exploring th
 
 ## 🚀 Things I'm building
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [**Ritma**](https://github.com/Keremcanatass-58/ritma) | Appointment and business management for service-based businesses. Bookings, staff, services, and payment tracking in one workspace. | `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` |
-| [**Kartist**](https://github.com/Keremcanatass-58/Kartist-Editor) · [Live demo ↗](https://kartistt.com.tr) | An AI-powered design studio with a social feed—make a design, polish it, and share it. | `ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server` |
-| [**SmartOrganizer**](https://github.com/Keremcanatass-58/SMART-ORGANIZER) | A Windows desktop helper that sorts everyday files and makes them easier to find. | `C#` · `WinForms` · `.NET` |
+### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
+
+Appointment and business management for service-based businesses. Bookings, staff, services, and payment tracking in one workspace.
+
+`.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server`
+
+### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Live demo ↗](https://kartistt.com.tr)
+
+An AI-powered design studio with a social feed—make a design, polish it, and share it.
+
+`ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server`
+
+### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER)
+
+A Windows desktop helper that sorts everyday files and makes them easier to find.
+
+`C#` · `WinForms` · `.NET`
 
 > **On the workbench:** Menzilim, a personal development platform—currently taking shape.
 
