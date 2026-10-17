@@ -23,7 +23,7 @@
   <path d="M840 300 1080 60M930 300 1170 60M1020 300 1200 120" stroke="#FFFFFF" stroke-opacity=".045" stroke-width="1"/>
   <g transform="translate(78 79)">
     <rect width="112" height="112" rx="28" fill="#FFFFFF" fill-opacity=".055" stroke="url(#gold)" stroke-opacity=".8" stroke-width="1.5"/>
-    <path d="M34 77V35h11l22 27V35h11v42H67L45 51v26z" fill="url(#gold)"/>
+    <text x="56" y="78" fill="url(#gold)" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700" text-anchor="middle">K</text>
     <circle cx="91" cy="21" r="4" fill="#E8C98C"/>
   </g>
   <text x="230" y="126" fill="#F7F3EA" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="650" letter-spacing="-.8">Keremcan Ataş</text>
