@@ -1,67 +1,70 @@
 <div align="center">
-  <img src="profile-banner-v2.svg" alt="Keremcan Ataş — backend developer building with C# and ASP.NET Core" width="100%">
+  <img src="profile-banner-playful.svg" alt="Keremcan Ataş — backend developer, C# and ASP.NET Core" width="100%">
 
   <br>
+  <br>
 
-  [![Start here](https://img.shields.io/badge/Start_here-Meet_Ritma-1D3C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremcanatass-58/ritma)
-  [![Kartist live demo](https://img.shields.io/badge/Live_product-Try_Kartist-C78D46?style=for-the-badge&logo=figma&logoColor=white)](https://kartistt.com.tr)
-  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
+  🗓️ <a href="https://github.com/Keremcanatass-58/ritma">Meet Ritma</a>
+  &nbsp; · &nbsp;
+  🎨 <a href="https://kartistt.com.tr">Try Kartist live</a>
+  &nbsp; · &nbsp;
+  💬 <a href="https://www.linkedin.com/in/keremcan-atas">Say hello</a>
 </div>
 
-## 👋 Hi, I'm Keremcan
+---
 
-I’m a backend developer and Internet & Network Technologies student in **Kocaeli, Türkiye**. I turn everyday workflow problems into useful products with **C#, ASP.NET Core, and SQL Server**—and care about how the software feels, not only how it compiles.
+## Hey, I'm Keremcan! 👋
 
-**Right now:** building Ritma · sharpening testing and cloud deployment · open to internship and junior backend roles.
+I’m an Internet & Network Technologies student in **Kocaeli, Türkiye**, building practical things with **C# and .NET**. I like clean APIs, thoughtful little details, and software that makes someone’s day a bit easier. I also like coffee. A lot. ☕
 
-## ✨ Selected work
+🔭 **Current side quest:** building Ritma  
+🧭 **Looking for:** an internship or junior backend role  
+🧪 **Learning:** testing, clean architecture, and cloud deployment
 
-### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
+## 🎮 Things I've made
 
-I’m building an appointment workspace where customers can book online and businesses can manage schedules, customers, services, staff, and payment status.
+### 🗓️ [Ritma](https://github.com/Keremcanatass-58/ritma) — less calendar chaos
 
-`ASP.NET Core` · `.NET 10` · `EF Core` · `SQL Server`
+A booking and business workspace: customers book online; businesses keep schedules, services, staff, and payment status in one place.
 
-**Engineering detail:** overlapping bookings are rejected, and management data is scoped to each business.
+`C#` · `ASP.NET Core` · `.NET 10` · `SQL Server`
 
 <a href="https://github.com/Keremcanatass-58/ritma">
-  <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma dashboard showing appointment and business management on desktop" width="100%">
+  <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma's appointment dashboard, showing the responsive business workspace" width="100%">
 </a>
 
-<sub>Real product screen · <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">Desktop and mobile screenshots</a></sub>
+<sub>That’s the real dashboard, with demo-safe data. <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">See desktop and mobile views →</a></sub>
 
-### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Try the live product ↗](https://kartistt.com.tr)
+### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) — ideas, meet canvas
 
-An AI-powered design studio for creating business cards and invitations, with a canvas editor and a live community feed.
+An AI-powered design studio for business cards and invitations, with a canvas editor and a live community feed. [Go try it ↗](https://kartistt.com.tr)
 
-`ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server`
+`ASP.NET Core 8` · `SignalR` · `Fabric.js` · `SQL Server`
 
-### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER)
+### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER) — find that file
 
-A Windows file organizer built as my final project for a Visual Programming course—categorize, search, and manage everyday files from one desktop app.
+A Windows desktop file organizer I built as my Visual Programming final project. It sorts, searches, and opens files from one place.
 
-`C#` · `WinForms` · `.NET`
+`C#` · `WinForms` · `.NET Framework`
 
-> 🛠️ **On the workbench:** Menzilim, a personal development platform—currently taking shape.
+> 🛠️ **On the workbench:** Menzilim, a personal development platform. Still in the “make it real” phase.
 
-## 🧰 Tools I reach for
+## 🧰 My everyday toolkit
 
-**Build:** C# · ASP.NET Core · Entity Framework Core · Dapper · SignalR  
-**Store:** SQL Server · T-SQL  
-**Explore:** JavaScript · HTML/CSS · Flutter · GitHub Actions
+**Building:** C# · ASP.NET Core · Entity Framework Core · Dapper · SignalR  
+**Keeping data:** SQL Server · T-SQL  
+**Exploring:** JavaScript · HTML/CSS · Flutter · GitHub Actions
 
-## 🌱 Beyond the code
+## ☕ Outside the terminal
 
 - 🎓 Studying Internet & Network Technologies in Kocaeli.
-- 🧪 Making testing and cloud deployment part of my everyday toolkit.
-- 🤝 Looking for an internship or junior backend role—remote or hybrid.
-- ☕ Usually one coffee away from opening a new branch.
-
-## 📬 Let's make something useful
-
-[LinkedIn](https://www.linkedin.com/in/keremcan-atas) · [Email](mailto:keremcanatass13@gmail.com) · [Kartist live demo](https://kartistt.com.tr)
+- 🐛 I enjoy debugging; the bugs just don’t enjoy being found.
+- 🤝 Open to internship and junior backend opportunities, remote or hybrid.
 
 <div align="center">
   <br>
-  <i>Curiosity in. Useful software out. ✨</i>
+  <b>Have a good problem? I like those.</b><br>
+  <a href="https://www.linkedin.com/in/keremcan-atas">LinkedIn</a> ·
+  <a href="mailto:keremcanatass13@gmail.com">Email</a> ·
+  <a href="https://github.com/Keremcanatass-58">GitHub</a>
 </div>
