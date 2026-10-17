@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile-banner.svg" alt="Keremcan Ataş — backend developer building with C# and ASP.NET Core" width="100%">
+  <img src="profile-banner-v2.svg" alt="Keremcan Ataş — backend developer building with C# and ASP.NET Core" width="100%">
 
   <br>
 
