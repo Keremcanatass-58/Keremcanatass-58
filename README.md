@@ -42,10 +42,10 @@ An AI-powered design studio for business cards and invitations, with a canvas ed
 `ASP.NET Core 8` · `SignalR` · `Fabric.js` · `SQL Server`
 
 <a href="https://kartistt.com.tr">
-  <img src="https://raw.githubusercontent.com/Keremcanatass-58/Kartist-Editor/main/docs/screenshots/05-editor.png" alt="Kartist design editor with template gallery, canvas, and editing tools" width="100%">
+  <img src="https://raw.githubusercontent.com/Keremcanatass-58/Keremcanatass-58/main/kartist-homepage.png" alt="Kartist home page showing the navigation, design studio introduction, and template collection" width="100%">
 </a>
 
-<sub>Open the <a href="https://kartistt.com.tr">live editor ↗</a></sub>
+<sub>Explore <a href="https://kartistt.com.tr">Kartist ↗</a></sub>
 
 ### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER) — find that file
 
