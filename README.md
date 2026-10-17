@@ -17,7 +17,7 @@ AI-powered online design studio with a social layer. Users create business cards
 - Security: BCrypt password hashing, 2FA, Google OAuth login, CSRF protection, rate limiting
 - CI/CD pipeline with GitHub Actions and signed deployments
 
-#### 📅 [Levorn API](https://github.com/Keremcanatass-58/levorn-api)
+#### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
 REST API for appointment-based businesses: customers, services and bookings.
 `ASP.NET Core Web API` `EF Core` `SQL Server`
 - Double-booking prevention with overlap detection (`409 Conflict`)
