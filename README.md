@@ -1,61 +1,69 @@
 <div align="center">
-  <img src="profile-banner.svg" alt="Keremcan Ataş — Backend Developer" width="100%">
+  <img src="profile-banner.svg" alt="Keremcan Ataş — backend developer building with C# and ASP.NET Core" width="100%">
 
   <br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
-  [![Ritma](https://img.shields.io/badge/Explore-Ritma-1D3C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremcanatass-58/ritma)
-  [![Kartist](https://img.shields.io/badge/Try-Kartist-C78D46?style=for-the-badge&logo=figma&logoColor=white)](https://kartistt.com.tr)
+  [![Selected work](https://img.shields.io/badge/Selected_work-Explore_my_projects-1D3C34?style=for-the-badge&logo=github&logoColor=white)](#selected-work)
+  [![Kartist live demo](https://img.shields.io/badge/Live_product-Try_Kartist-C78D46?style=for-the-badge&logo=figma&logoColor=white)](https://kartistt.com.tr)
+  [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
 </div>
 
-## 👋 Hey, I'm Keremcan
+## 👋 Hi, I'm Keremcan
 
-I'm a backend-focused developer from **Kocaeli, Türkiye**, studying Internet & Network Technologies. I enjoy turning practical problems into useful products—with clean APIs, thoughtful details, and the occasional coffee-fuelled refactor. ☕
+I’m a backend developer and Internet & Network Technologies student in **Kocaeli, Türkiye**. I build practical products with **C#, ASP.NET Core, and SQL Server**—and care about making the experience feel as considered as the code behind it.
 
-I work mostly with **C#, ASP.NET Core, and SQL Server**, and I like exploring the full journey from a solid backend to a product people enjoy using.
+**Currently:** building Ritma · learning clean architecture, testing, and cloud deployment · open to internship and junior backend roles.
 
-## 🚀 Things I'm building
+## ✨ Selected work
 
 ### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
 
-Appointment and business management for service-based businesses. Bookings, staff, services, and payment tracking in one workspace.
+Appointment and business management for service-based businesses. A public booking flow connects to a workspace for schedules, customers, services, staff, and payment tracking.
 
-`.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server`
+`ASP.NET Core` · `.NET 10` · `EF Core` · `SQL Server`
 
-### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Live demo ↗](https://kartistt.com.tr)
+<details>
+  <summary>Peek at the product</summary>
+  <br>
+  <a href="https://github.com/Keremcanatass-58/ritma">
+    <img src="https://raw.githubusercontent.com/Keremcanatass-58/ritma/main/docs/screenshots/dashboard-desktop.png" alt="Ritma appointment and business management dashboard" width="900">
+  </a>
+  <br>
+  <sub>Responsive dashboard · <a href="https://github.com/Keremcanatass-58/ritma/tree/main/docs/screenshots">More screenshots</a></sub>
+</details>
 
-An AI-powered design studio with a social feed—make a design, polish it, and share it.
+### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Try the live product ↗](https://kartistt.com.tr)
+
+An AI-powered design studio with a social feed. Create a design, refine it on a canvas, and share it with others.
 
 `ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server`
 
 ### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER)
 
-A Windows desktop helper that sorts everyday files and makes them easier to find.
+A small Windows desktop companion that organizes everyday files and makes them easier to find.
 
 `C#` · `WinForms` · `.NET`
 
-> **On the workbench:** Menzilim, a personal development platform—currently taking shape.
+> 🛠️ **On the workbench:** Menzilim, a personal development platform—currently taking shape.
 
-## 🧰 My toolbox
+## 🧰 Tools I reach for
 
-**Backend**　![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-204B7A) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?logo=dotnet&logoColor=white)
+**Build:** C# · ASP.NET Core · Entity Framework Core · Dapper · SignalR  
+**Store:** SQL Server · T-SQL  
+**Explore:** JavaScript · HTML/CSS · Flutter · GitHub Actions
 
-**Data**　![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927)
+## 🌱 Beyond the code
 
-**Also exploring**　![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+- 🎓 Studying Internet & Network Technologies in Kocaeli.
+- 🧪 Making testing and cloud deployment part of my everyday toolkit.
+- 🤝 Looking for an internship or junior backend role—remote or hybrid.
+- ☕ Usually one coffee away from opening a new branch.
 
-## 🌱 A little more about me
-
-- 🎓 Learning Internet & Network Technologies in Kocaeli.
-- 🧪 Getting better at clean architecture, testing, and cloud deployment.
-- 🤝 Open to **internship and junior backend opportunities**—remote or hybrid.
-- 💡 Always happy to talk about product ideas, APIs, and what makes software feel effortless.
-
-## 📬 Say hello
+## 📬 Let's make something useful
 
 [LinkedIn](https://www.linkedin.com/in/keremcan-atas) · [Email](mailto:keremcanatass13@gmail.com) · [Kartist live demo](https://kartistt.com.tr)
 
 <div align="center">
   <br>
-  <i>Building useful things, one thoughtful commit at a time. ✨</i>
+  <i>Curiosity in. Useful software out. ✨</i>
 </div>
