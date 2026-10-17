@@ -1,44 +1,49 @@
-## Hi, I'm Keremcan 👋
+<div align="center">
+  <img src="profile-banner.svg" alt="Keremcan Ataş — Backend Developer" width="100%">
 
-**Backend developer focused on ASP.NET Core and C#.** I build web APIs and full-stack web apps with SQL Server, and I'm currently studying Internet & Network Technologies in Kocaeli, Türkiye.
+  <br>
 
-- 🔭 Currently building **Menzilim**, an AI-powered personal development platform (ASP.NET Core API + Flutter app)
-- 🌱 Improving my skills in clean architecture, testing and cloud deployment
-- 💼 **Open to internships and junior backend roles (remote or hybrid)**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
+  [![Ritma](https://img.shields.io/badge/Explore-Ritma-1D3C34?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremcanatass-58/ritma)
+  [![Kartist](https://img.shields.io/badge/Try-Kartist-C78D46?style=for-the-badge&logo=sparkles&logoColor=white)](https://kartistt.com.tr)
+</div>
 
----
+## 👋 Hey, I'm Keremcan
 
-### Featured Projects
+I'm a backend-focused developer from **Kocaeli, Türkiye**, studying Internet & Network Technologies. I enjoy turning practical problems into useful products—with clean APIs, thoughtful details, and the occasional coffee-fuelled refactor. ☕
 
-#### 🎨 [Kartist](https://github.com/Keremcanatass-58/Kartist-Editor) · [Live Demo](https://kartistt.com.tr)
-AI-powered online design studio with a social layer. Users create business cards and invitations on a layer-based canvas editor, generate visuals with AI, and share their work in a real-time feed.
-`ASP.NET Core 8` `SQL Server` `Dapper` `SignalR` `Fabric.js` `GitHub Actions`
-- Real-time features with SignalR (live feed, live streaming)
-- Security: BCrypt password hashing, 2FA, Google OAuth login, CSRF protection, rate limiting
-- CI/CD pipeline with GitHub Actions and signed deployments
+I work mostly with **C#, ASP.NET Core, and SQL Server**, and I like exploring the full journey from a solid backend to a product people enjoy using.
 
-#### 📅 [Ritma](https://github.com/Keremcanatass-58/ritma)
-REST API for appointment-based businesses: customers, services and bookings.
-`ASP.NET Core Web API` `EF Core` `SQL Server`
-- Double-booking prevention with overlap detection (`409 Conflict`)
-- Request validation with DTOs, consistent error responses, EF Core migrations
+## 🚀 Things I'm building
 
-#### 📂 [SmartOrganizer](https://github.com/Keremcanatass-58/SMART-ORGANIZER)
-Windows desktop app that scans user folders and organizes files into categories with search and quick actions.
-`C#` `WinForms` `.NET Framework`
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Ritma**](https://github.com/Keremcanatass-58/ritma) | Appointment and business management for service-based businesses. Bookings, staff, services, and payment tracking in one workspace. | `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` |
+| [**Kartist**](https://github.com/Keremcanatass-58/Kartist-Editor) · [Live demo ↗](https://kartistt.com.tr) | An AI-powered design studio with a social feed—make a design, polish it, and share it. | `ASP.NET Core` · `SignalR` · `Fabric.js` · `SQL Server` |
+| [**SmartOrganizer**](https://github.com/Keremcanatass-58/SMART-ORGANIZER) | A Windows desktop helper that sorts everyday files and makes them easier to find. | `C#` · `WinForms` · `.NET` |
 
----
+> **On the workbench:** Menzilim, a personal development platform—currently taking shape.
 
-### Tech Stack
+## 🧰 My toolbox
 
-**Backend:** C# · ASP.NET Core (Web API, MVC, Razor Pages) · Entity Framework Core · Dapper · SignalR<br/>
-**Database:** SQL Server · T-SQL<br/>
-**Frontend & Mobile:** JavaScript · HTML/CSS · Tailwind CSS · Flutter<br/>
-**Tools:** Git · GitHub Actions · Visual Studio
+**Backend**　![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) ![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white) ![Dapper](https://img.shields.io/badge/Dapper-204B7A) ![SignalR](https://img.shields.io/badge/SignalR-512BD4?logo=dotnet&logoColor=white)
 
----
+**Data**　![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927)
 
-### Contact
+**Also exploring**　![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-keremcan--atas-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keremcan-atas)
-[![Email](https://img.shields.io/badge/Email-keremcanatass13%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:keremcanatass13@gmail.com)
+## 🌱 A little more about me
+
+- 🎓 Learning Internet & Network Technologies in Kocaeli.
+- 🧪 Getting better at clean architecture, testing, and cloud deployment.
+- 🤝 Open to **internship and junior backend opportunities**—remote or hybrid.
+- 💡 Always happy to talk about product ideas, APIs, and what makes software feel effortless.
+
+## 📬 Say hello
+
+[LinkedIn](https://www.linkedin.com/in/keremcan-atas) · [Email](mailto:keremcanatass13@gmail.com) · [Kartist live demo](https://kartistt.com.tr)
+
+<div align="center">
+  <br>
+  <i>Building useful things, one thoughtful commit at a time. ✨</i>
+</div>
