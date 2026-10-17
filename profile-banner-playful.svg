@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Keremcan Ataş — C# and .NET developer</title>
+  <desc id="desc">A playful purple coding desk with a build terminal, coffee mug, and colorful sparks.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7668F6"/>
+      <stop offset="0.55" stop-color="#6751E8"/>
+      <stop offset="1" stop-color="#4937B9"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#302A53"/>
+      <stop offset="1" stop-color="#211E38"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity=".13"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="340" rx="28" fill="url(#sky)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#dots)"/>
+  <circle cx="1120" cy="-12" r="175" fill="#FFB88F" fill-opacity=".11"/>
+  <circle cx="1000" cy="334" r="190" fill="#69E8D1" fill-opacity=".10"/>
+  <path d="M0 286c190-70 300 55 492-6s272-19 355 7v53H0z" fill="#34288C" fill-opacity=".22"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="76" y="91" fill="#D8D4FF" font-size="16" font-weight="700" letter-spacing="4">HEY, I'M</text>
+    <text x="72" y="157" fill="#FFFFFF" font-size="58" font-weight="750" letter-spacing="-1.4">Keremcan Ataş</text>
+    <text x="77" y="202" fill="#FFFFFF" fill-opacity=".92" font-size="22" font-weight="600">Backend dev · C# / .NET · Kocaeli, Türkiye</text>
+    <text x="78" y="246" fill="#E6E2FF" font-size="20">I make useful things. Then I add a little joy. ✨</text>
+  </g>
+
+  <!-- Terminal card -->
+  <g transform="translate(687 69)">
+    <rect width="405" height="198" rx="22" fill="url(#card)" stroke="#FFFFFF" stroke-opacity=".24" stroke-width="1.5"/>
+    <path d="M0 53h405" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <circle cx="27" cy="27" r="6" fill="#FF8E8A"/>
+    <circle cx="49" cy="27" r="6" fill="#FFD36F"/>
+    <circle cx="71" cy="27" r="6" fill="#6DE2C4"/>
+    <text x="31" y="94" fill="#A9F2DB" font-family="Consolas, monospace" font-size="20" font-weight="600">&gt; dotnet build</text>
+    <text x="31" y="132" fill="#FFFFFF" font-family="Consolas, monospace" font-size="18">Build succeeded!</text>
+    <text x="31" y="166" fill="#FFD36F" font-family="Consolas, monospace" font-size="16">0 errors · coffee: pending</text>
+    <path d="m360 91 10 10-10 10m18-20-10 20" fill="none" stroke="#FFB88F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Coffee mug and tiny sparkle doodles -->
+  <g transform="translate(1085 242)">
+    <path d="M0 15h58v39a13 13 0 0 1-13 13H13A13 13 0 0 1 0 54z" fill="#FFE29B"/>
+    <path d="M58 25h9a11 11 0 0 1 0 22h-9" fill="none" stroke="#FFE29B" stroke-width="8"/>
+    <path d="M18 7c-8-9 8-10 0-19m19 19c-8-9 8-10 0-19" fill="none" stroke="#FFF0C6" stroke-width="3" stroke-linecap="round"/>
+    <path d="M28 27v22m-11-11h22" stroke="#E87972" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <path d="m629 74 7 18 18 7-18 7-7 18-7-18-18-7 18-7z" fill="#FFD36F"/>
+  <path d="m1117 73 5 12 12 5-12 5-5 12-5-12-12-5 12-5z" fill="#A9F2DB"/>
+  <circle cx="646" cy="230" r="5" fill="#FFB88F"/>
+  <circle cx="1128" cy="175" r="4" fill="#FFFFFF" fill-opacity=".8"/>
+</svg>
