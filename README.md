@@ -23,6 +23,20 @@ I’m an **Internet & Network Technologies student in Kocaeli, Türkiye** who li
 
 ## 🕹️ Projects from my little corner of the internet
 
+### 🧭 [MENZİLİM](https://github.com/Keremcanatass-58/menzilim) — turn career goals into real progress
+
+A personal professional-development platform that connects a career goal to a learning path, daily actions, skill growth, and a project that develops step by step.
+
+`Flutter` · `ASP.NET Core` · `.NET 10` · `EF Core` · `SQL Server`
+
+<p align="center">
+  <a href="https://github.com/Keremcanatass-58/menzilim">
+    <img src="menzilim-dashboard.jpg" alt="MENZİLİM personalized dashboard with daily plan, skill progress, and navigation" width="420">
+  </a>
+</p>
+
+<p align="center"><sub>Goal → Path → Today → Learn → Build → Grow</sub></p>
+
 ### 🗓️ [Ritma](https://github.com/Keremcanatass-58/ritma) — fewer calendar headaches
 
 A booking and business workspace where customers can book online and businesses can manage appointments, services, staff, and payments.
@@ -50,8 +64,6 @@ An AI-powered design studio for business cards and invitations, with a canvas ed
 A Windows desktop file organizer I made for my Visual Programming final project. It sorts, searches, and opens files from one place.
 
 `C#` · `WinForms` · `.NET Framework`
-
-> 🛠️ **On the workbench:** Menzilim, a personal development platform. It’s in the “make it real” phase.
 
 ## 🧰 My toolbox
 
